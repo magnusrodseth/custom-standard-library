@@ -34,6 +34,10 @@ The following classes are currently implemented:
 
 Developed by Magnus Rødseth, Summer 2021.
 
-## Running the application ✅
+## Running the application 🏁
 
-...
+The main purpose of this repository is not to run the application in the terminal, but rather test the features of the library.
+
+If you want to run the application as an executable, do the following:
+
+In `main.cpp`, you can make various method calls to the implemented classes in the library. Then, build the application and launch the executable to see your changes in effect.
