@@ -93,6 +93,7 @@ public:
     // of the string object plus an additional terminating null-character ('\0') at the end.
     char *toCString();
 
+    // Prints the string content of the String object.
     friend std::ostream &operator<<(std::ostream &os, const String &string);
 };
 
